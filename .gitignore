@@ -1,0 +1,9 @@
+# OS
+.AppleDouble/
+*.DS_Store
+
+# Package manager
+node_modules/
+
+# Doc & log
+npm-debug.log

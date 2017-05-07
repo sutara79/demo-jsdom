@@ -1,0 +1,9 @@
+{
+  "name": "demo-jsdom",
+  "version": "0.0.1",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": ">=3.0.0",
+    "jsdom": "^10.1.0"
+  }
+}
